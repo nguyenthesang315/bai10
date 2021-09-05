@@ -1,0 +1,24 @@
+.App{
+    
+    &__cover{
+        width: 100%;
+        display: grid;
+        grid-template-columns:25% 50% 25%;
+        &-left{
+
+        }
+        &-center{
+            // border:3px solid #00ff00;
+            width: 100%;
+            background-color: rgb(236, 245, 247);
+            border-radius: 2vh;
+          
+        }
+        &-right{
+            
+            width: 100%;
+            // background-color: aqua;
+        }
+    
+    }
+}

@@ -1,0 +1,71 @@
+@mixin theme($theme: DarkGray,$bgicon:red,$colortext:blue) {
+    background: $theme;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    box-shadow: 0 0 1px rgba($theme, .25);
+    margin: 1vh 0;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 2vh;
+    padding: 1vh 0;
+    #rightIcon{
+        margin:0 auto;
+        font-size: x-large;
+    }
+    &-icon{
+        color:$colortext;
+        height: 5vh;
+        width: 5vh;
+        padding: 1vh;
+        background-color: $bgicon;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        border-radius: 50%;
+        margin: 0 auto;
+    }
+    #value{
+        color:$colortext;
+        font-weight: bolder;
+    }
+    #name{
+        font-size:2vh;
+    }
+    &-text{
+        p{
+            margin:0;
+            // background-color: cadetblue;
+        }
+    }
+  }
+
+.all{
+    // border: 1px gray solid;
+    border-radius: 2vh;
+    background-color: rgb(236, 245, 247);
+    padding: 1vh 0;
+    margin-bottom: 1vh;
+    &__cover{
+        width: 90%;
+        margin: 0 auto;
+        // background-color: brown;
+        &-one{
+            margin: 1vh 0;
+            display: grid;
+            grid-template-columns: 48% 48%;
+            justify-content: space-between;
+            &-times{   
+                @include theme($theme: rgb(201, 199, 252),$bgicon:rgb(146, 148, 255),$colortext:rgb(101,98,255));
+            }
+            &-atend{   
+                @include theme($theme: rgb(175, 255, 222),$bgicon:rgb(140, 255, 186),$colortext:rgb(33,190,96));
+            }
+            &-meet{   
+                @include theme($theme: rgb(203, 183, 255),$bgicon:rgb(177, 148, 255),$colortext:rgb(108, 55, 255));
+            }
+            &-reject{   
+                @include theme($theme: rgb(253, 203, 203),$bgicon:rgb(255, 169, 169),$colortext:rgb(255,87,87));
+            }
+        }
+    }
+}

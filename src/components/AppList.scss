@@ -1,0 +1,55 @@
+.List{
+    // margin-bottom:12vh;
+    height:88vh;
+    overflow-x:hidden;
+    overflow-y:auto;
+    &__cover{
+
+        &-body{
+            &-table{
+                width: 100%;
+                text-align: left;
+            }
+            &-chatbox{
+                width: 98%;
+                margin: 0 auto;
+                p{
+                   display: flex;
+                   margin: auto 10px;
+                   padding: 1%;
+                   border-radius: 15px;
+                }
+                &-Post{
+                    margin: 10px;
+                    display: flex;
+                    
+                    justify-content: flex-end;
+                    align-items: center;
+                    img{
+                        width: 50px;
+                        height: 50px;
+                        border-radius: 50%;
+                    }
+                }
+                &-Received{
+                    margin: 10px 0;
+                    display: flex;
+                    justify-content: flex-start;
+                    img{
+                        width: 50px;
+                        height: 50px;
+                        border-radius: 50%;
+                    }
+                }
+            }
+        }
+    }
+}
+#Received{
+    background-color: white;
+}
+#Post{
+    background-color: rgb(13, 102, 219);
+    color: white;
+    
+}

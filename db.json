@@ -1,0 +1,142 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Phương Tuyền ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkyYri5m6GyIcG8Q8c3EY1BSHdI0I6EOObhA&usqp=CAU",
+      "ChatPost": [
+        "HI",
+        "Tuyền"
+      ],
+      "ChatReceived": [
+        "HI",
+        "Sang"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Thế Sang",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8BlN-vQrYdasSXj4MmoHMl8Y-WSG9R5UcbA&usqp=CAU",
+      "ChatPost": [
+        " HI ",
+        "sang",
+        "1",
+        "2",
+        "3",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "Hello you "
+      ],
+      "ChatReceived": [
+        "HI",
+        "SANG"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Hoàng Long ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkyYri5m6GyIcG8Q8c3EY1BSHdI0I6EOObhA&usqp=CAU",
+      "ChatPost": [
+        "HI",
+        "Tuyền"
+      ],
+      "ChatReceived": [
+        "HI",
+        "Sang"
+      ]
+    },
+    {
+      "id": "4",
+      "name": " Lê Huy ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkyYri5m6GyIcG8Q8c3EY1BSHdI0I6EOObhA&usqp=CAU",
+      "ChatPost": [
+        "HI",
+        "Tuyền"
+      ],
+      "ChatReceived": [
+        "HI",
+        "Sang"
+      ]
+    },
+    {
+      "id": "5",
+      "name": " Lê Huy ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkyYri5m6GyIcG8Q8c3EY1BSHdI0I6EOObhA&usqp=CAU",
+      "ChatPost": [
+        "HI",
+        "Tuyền"
+      ],
+      "ChatReceived": [
+        "HI",
+        "Sang"
+      ]
+    },
+    {
+      "id": "6",
+      "name": " Lê Huy ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkyYri5m6GyIcG8Q8c3EY1BSHdI0I6EOObhA&usqp=CAU",
+      "ChatPost": [
+        "HI",
+        "Tuyền"
+      ],
+      "ChatReceived": [
+        "HI",
+        "Sang"
+      ]
+    },
+    {
+      "id": "7",
+      "name": " Lê Huy ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkyYri5m6GyIcG8Q8c3EY1BSHdI0I6EOObhA&usqp=CAU",
+      "ChatPost": [
+        "HI",
+        "Tuyền"
+      ],
+      "ChatReceived": [
+        "HI",
+        "Sang"
+      ]
+    },
+    {
+      "id": "8",
+      "name": " Lê Huy ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkyYri5m6GyIcG8Q8c3EY1BSHdI0I6EOObhA&usqp=CAU",
+      "ChatPost": [
+        "HI",
+        "Tuyền"
+      ],
+      "ChatReceived": [
+        "HI",
+        "Sang"
+      ]
+    },
+    {
+      "id": "9",
+      "name": " Lê Huy ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkyYri5m6GyIcG8Q8c3EY1BSHdI0I6EOObhA&usqp=CAU",
+      "ChatPost": [
+        "HI",
+        "Tuyền"
+      ],
+      "ChatReceived": [
+        "HI",
+        "Sang"
+      ]
+    }
+  ]
+}

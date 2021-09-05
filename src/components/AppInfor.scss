@@ -1,0 +1,39 @@
+@import "~bootstrap/scss/bootstrap";
+.Infor{
+    height: 11vh;
+    width: 100%;
+    border-radius: 10px;  
+    &__body{
+        width: 98%;
+        margin:1vh auto;
+     
+        &-elements{
+            // margin: 1% auto;
+            width: 100%;
+            display: grid;
+            grid-template-columns: 80% 20%;
+            padding: 2vh 0;
+            background-color: white;
+            border-radius:10px;
+            #btnSend{
+                border-radius: 2vh;
+                width: 80%;
+                margin: 0 auto;
+            }
+            label{
+                font-weight: bold;
+            }
+            input{
+                width: 98%;
+                line-height:40px;
+                border-radius:10px;
+                border: grey solid 1px ;
+                outline:none;
+                margin:0 auto;
+            }
+
+        }
+    }
+
+    
+}
